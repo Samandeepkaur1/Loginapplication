@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">login</string>
+    <string name="please_enter_name">please enter name</string>
+    <string name="please_enter_password">please enter password</string>
+    <string name="password_should_be_greater_than_6">password should be greater than6</string>
+    <string name="login_successfully">login successful</string>
+    <string name="email">Email</string>
+    <string name="forgot_password">Forgot password</string>
+    <string name="please_enter_email">please enter email</string>
+</resources>
