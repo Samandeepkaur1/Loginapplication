@@ -7,4 +7,17 @@
     <string name="email">Email</string>
     <string name="forgot_password">Forgot password</string>
     <string name="please_enter_email">please enter email</string>
+    <string name="enter_your_name">enter your name</string>
+    <string name="enter_your_email">enter your email</string>
+    <string name="enter_password">enter password</string>
+    <string name="Reenter_password">reenter password</string>
+    <string name="Phonenumber">phonenumber</string>
+    <string name="enter_your_Phonenumber">enter your phonenumber</string>
+    <string name="enter_your_Phone_number">enter your phone number</string>
+    <string name="enter_Phone_number">enter phone number</string>
+    <string name="others">others</string>
+    <string name="SignUp">signup</string>
+    <string name="password_should_be_same">Password should be same</string>
+    <string name="enter_other_name">enter other name</string>
+    <string name="SignUp_successfully">SignUp successfully</string>
 </resources>

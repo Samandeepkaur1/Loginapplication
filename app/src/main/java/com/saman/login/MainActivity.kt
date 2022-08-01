@@ -45,8 +45,11 @@ class MainActivity : AppCompatActivity() {
                 etPassword.requestFocus()
             }
             else {
-                Toast.makeText(this,resources.getString(R.string.login_successfully), Toast.LENGTH_LONG).show()
-            }
+            Toast.makeText(this,resources.getString(R.string.login_successfully), Toast.LENGTH_LONG).show()
+            var intent = Intent(this, Activity_sign_up::class.java)
+            startActivity(intent)
+            finish()
+        }
         }
     }
 }
